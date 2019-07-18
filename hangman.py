@@ -1,5 +1,5 @@
 import random
-
+#hey im here
 potential_words = ["stanloona", "hello", "bang", "cnco", "dimelo", "lunay", "hobi", "olivia", "liana","sydney", "streamclimaxxx", "queen"]
 
 word = random.choice(potential_words)
